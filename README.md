@@ -57,5 +57,3 @@ A Streamlit web application that predicts energy consumption for the next hour u
 
 - The model input shape may need adjustment based on how it was trained (single timestep vs sequence)
 - If the model expects a sequence input, modify the reshape logic in `app.py`
-
-# Energy-Consumption-Prediction
